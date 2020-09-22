@@ -3,11 +3,10 @@
 ![](https://conflictos-ambientales.net/oca_bd/img/Logo%20UN.jpg)
 
 
-Instructor : *Gordo Gruñon*
+Instructor : *Enrique Rendón*
 
-* Email : 
-* Web: 
-* Github: 
+* Email : Cortina.er@gmail.com
+* Github: ECortina
 
 El uso de herramientas que permitan automatizar procesos, y guardar su respectivo versionamiento es vital para el desarrollo tecnológico de las industrias y organizaciones gubernamentales, y es por ello que la Universidad Nacional de Colombia, a través de la escuela de [Economía](http://www.fce.unal.edu.co/pec.html) creo este curso, el cual generará en cada uno de los participantes adquirir habilidades para desarrollar trabajos colaborativos, actualizar versiones de códigos, conocer quienes estan modificando o participando en los proyectos y generar un esquema de seguridad para el trabajo en grupo de manera oportuna.
 
