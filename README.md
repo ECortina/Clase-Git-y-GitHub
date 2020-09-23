@@ -25,9 +25,7 @@ Dicho lo anteriro, el objetivo del curso es que cada uno de los participantes pu
 
 * Instale Git haciendo click [aquí](https://git-scm.com/)
 * Abra una cuenta de Github [aquí](https://github.com/)
-* Instale alguno de los siguientes editores de texto:
-  + [Sublime Text](https://www.sublimetext.com/3)
-  + [Atom](https://atom.io/)
+* Instale el siguiente editor de texto:
   + [Visual Studio Code](https://code.visualstudio.com/download)
 * Dado que Git trabaja bajo el formato **Markdown** por favor revise el siguiente [documento](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 

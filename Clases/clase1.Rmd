@@ -1,0 +1,55 @@
+---
+title: "Introducción a Git"
+subtitle: "Conceptos básicos e instalación"
+author: "Enrique Rendón"
+short-author: "ER"
+date: "`r format(Sys.time(), '%d -%m -%Y')`"
+institute: "Universidad Nacional de Colombia"
+short-institute: "UNAL"
+section-titles: false
+save-columns: true
+output: 
+  beamer_presentation:
+    keep_tex: true
+    theme: "Madrid"
+    colortheme: "beaver"
+    incremental: true
+    slide_level: 2
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Instalacion de Git
+
+Hola
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+```{bash}
+git clone 
+```
+
+
+```{r pressure}
+```
+
+
